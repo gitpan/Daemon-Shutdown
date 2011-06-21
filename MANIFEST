@@ -1,0 +1,15 @@
+MANIFEST
+Makefile.PL
+README
+ignore.txt
+examples/etc/sdd.conf
+examples/init.d/sdd
+lib/Daemon/Shutdown.pm
+lib/Daemon/Shutdown/Monitor/hdparm.pm
+t/00-load.t
+t/manifest.t
+t/pod-coverage.t
+t/boilerplate.t
+t/pod.t
+bin/sdd
+META.yml                                 Module meta-data (added by MakeMaker)
