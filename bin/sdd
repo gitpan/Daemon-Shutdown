@@ -111,5 +111,4 @@ if ( $cli_args{version} ) {
 
 my $sdd = Daemon::Shutdown->new( %cli_args );
 $sdd->start();
-
 exit;
